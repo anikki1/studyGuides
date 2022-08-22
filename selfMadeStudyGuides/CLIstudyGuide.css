@@ -1,0 +1,10 @@
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+   grid-column: 1fr 1fr;
+}
